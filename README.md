@@ -1,7 +1,7 @@
 # 📂 Py-Files Repository
 This repository contains a collection of Jupyter Notebooks created for learning, practicing, and implementing concepts in **Python, Data Science, and Machine Learning**.
 
-📑 Notebook Overview
+• Notebook Overview
 
 - **Task1.ipynb** – Python / Data Science Task 1  
 - **Task2.ipynb** – Python / Data Science Task 2
@@ -14,7 +14,7 @@ This repository contains a collection of Jupyter Notebooks created for learning,
 - **FinalProjectSiya.ipynb** – End-to-end project work (final submission)  
 - **NsdcSiya.ipynb** – NSDC-related tasks and exercises  
 
-## 🚀 How to Run the Notebooks
+• How to Run the Notebooks
 
 ### Option 1: Google Colab
 1. Open [Google Colab](https://colab.research.google.com/).  
